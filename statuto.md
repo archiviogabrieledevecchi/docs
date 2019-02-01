@@ -1,4 +1,4 @@
-STATUTO
+                      STATUTO
                       Titolo I
                Disposizioni generali
 1. E' costituita una associazione denominata "Archivio Gabriele Devecchi". 
