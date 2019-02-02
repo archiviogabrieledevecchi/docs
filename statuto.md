@@ -52,10 +52,9 @@ All'inizio di ogni sessione, il Consiglio nomina tra i presenti un segretario, c
 38. La firma e la rappresentanza legale dell'Associazione di fronte a qualsiasi autorità giudiziaria e amministrativa, di fronte ad organizzazioni governative e non governative e di fronte a terzi sono conferite al Presidente, cui spetta l'esecuzione delle deliberazioni adottate dall'Assemblea Generale o dal Consiglio Direttivo, nonché il potere di disposizione nei confronti dei terzi delle proprietà e dei beni dell'Associazione. In caso di assenza o impedimento del Presidente dell'Associazione, le funzioni ed i poteri di quest'ultimo sono esercitati dal Vice Presidente. 
 ## Titolo VIII - Scioglimento
 39. Lo scioglimento dell'Associazione è deliberato dall'Assemblea Generale dei soci, con l'approvazione, sia in prima che in seconda convocazione, di almeno i tre quarti degli associati. L'Assemblea che delibera lo scioglimento dell'Associazione provvede anche alla nomina dei liquidatori. 
-40. La destinazione del patrimonio residuo dell'Associazione avverrà a favore di altra associazione, ente o organizzazione che persegua finalità analoghe, ovvero a fini di pubblica utilità, fatta salva diversa destinazione imposta dalla legge. 
-
-F.to Matteo Devecchi
-F.to Giacomo Devecchi
-F.to Corinna Morandi
+40. La destinazione del patrimonio residuo dell'Associazione avverrà a favore di altra associazione, ente o organizzazione che persegua finalità analoghe, ovvero a fini di pubblica utilità, fatta salva diversa destinazione imposta dalla legge.  
+F.to Matteo Devecchi  
+F.to Giacomo Devecchi  
+F.to Corinna Morandi  
 F.to Alessandra Bortesi
 
