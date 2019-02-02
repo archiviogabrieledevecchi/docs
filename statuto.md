@@ -1,6 +1,7 @@
-STATUTO
-                      Titolo I
-               Disposizioni generali
+# STATUTO
+
+## Titolo - Disposizioni generali
+
 1. E' costituita una associazione denominata "Archivio Gabriele Devecchi". 
 L'Associazione è una libera associazione, apolitica e senza finalità di lucro, con durata illimitata nel tempo, regolata a norma del presente Statuto e, per quanto ivi non previsto, dal Titolo I, Capo III, articoli 36 e seguenti del codice civile italiano. 
 L'Associazione ha sede in Milano, in via Trieste n. 8. Con deliberazione dell'Assemblea Generale, potranno essere istituite, in Italia e all'estero, sedi periferiche, sezioni, rappresentanze. 
