@@ -55,10 +55,7 @@ All'inizio di ogni sessione, il Consiglio nomina tra i presenti un segretario, c
 40. La destinazione del patrimonio residuo dell'Associazione avverrà a favore di altra associazione, ente o organizzazione che persegua finalità analoghe, ovvero a fini di pubblica utilità, fatta salva diversa destinazione imposta dalla legge. 
 
 F.to Matteo Devecchi
-
 F.to Giacomo Devecchi
-
 F.to Corinna Morandi
-
 F.to Alessandra Bortesi
 
